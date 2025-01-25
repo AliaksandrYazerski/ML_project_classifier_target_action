@@ -169,4 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
 /data
+/pipeline_as_a_service/__pycache__
